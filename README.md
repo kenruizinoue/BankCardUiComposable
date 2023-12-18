@@ -1,8 +1,12 @@
-# BankCardUi Composable
+# BankCardUiComposable
 
 <p align="center">
   <img src="./screenshot.png" width="300" />
 </p>
+
+## Medium Article
+
+This project is accompanied by a Medium article that explains the implementation of the bank card UI in detail. You can read the article [here](https://medium.com/@kenruizinoue/intermediate-android-compose-bank-card-ui-371d14ea7843).
 
 ## Overview
 

@@ -122,11 +122,13 @@ fun BankCardUi(
 fun BankCardBackground(baseColor: Color) {
     val colorSaturation75 = baseColor.setSaturation(0.75f)
     val colorSaturation50 = baseColor.setSaturation(0.5f)
+    // Drawing Shapes with Canvas
     Canvas(
         modifier = Modifier
             .fillMaxSize()
             .background(baseColor)
     ) {
+        // Drawing Circles
         drawCircle(
             color = colorSaturation75,
             center = Offset(x = size.width * 0.2f, y = size.height * 0.6f),
