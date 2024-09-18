@@ -4,10 +4,6 @@
   <img src="./screenshot.png" width="300" />
 </p>
 
-## Medium Article
-
-This project is accompanied by a Medium article that explains the implementation of the bank card UI in detail. You can read the article [here](https://medium.com/@kenruizinoue/intermediate-android-compose-bank-card-ui-371d14ea7843).
-
 ## Overview
 
 The `BankCardUiComposable` project demonstrates the capabilities of Jetpack Compose in building modern, reactive UIs for Android. This project showcases a dynamic bank card interface, leveraging the power of Kotlin and Compose. It's designed as a learning tool for Android developers interested in understanding the nuances of Compose and Kotlin.
