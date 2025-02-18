@@ -26,3 +26,7 @@ This project is a testament to the flexibility and efficiency of Jetpack Compose
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio (preferably the latest version for full Compose support).
 3. Run the app on an emulator or physical device to see the Composable in action.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
